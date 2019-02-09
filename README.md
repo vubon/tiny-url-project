@@ -1,3 +1,8 @@
 ## Tiny URL Project
-* work update
-[link](https://www.youtube.com/watch?v=yXY3f9jw7fg)
+* work update table (TODoList)
+
+|  __Work__   | __Status__ | __Deadline__|
+|-------------|------------|------------|
+|git_Table    | Done       |       ok    |
+| Home_website| Done       |       ok    |
+| Database    | Panding    |       ok    |
